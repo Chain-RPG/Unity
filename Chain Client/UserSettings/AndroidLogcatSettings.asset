@@ -1,0 +1,289 @@
+{
+    "m_SelectedDeviceId": "R3CR70RDPSE",
+    "m_SelectedPackage": {
+        "deviceId": "R3CR70RDPSE",
+        "name": "com.lkd.Chain.RPG",
+        "processId": 20792,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 28159,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 28835,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 30228,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 31912,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 32209,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 32573,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 1461,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 2511,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 5396,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 6255,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 8154,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 8689,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 9423,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 11823,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 12296,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 13656,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 13803,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 14466,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 16518,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 17656,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 18632,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 19386,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 19808,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 22519,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 22794,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 24164,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 24662,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 25716,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 27178,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 28174,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 30374,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 11747,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 12873,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 13640,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 20792,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_FilterOptions": {
+        "m_Filter": "",
+        "m_UseRegularExpressions": false,
+        "m_MatchCase": false
+    },
+    "m_SymbolPaths": [],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    }
+}
