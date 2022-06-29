@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "R3CR70RDPSE",
         "name": "com.lkd.Chain.RPG",
-        "processId": 31345,
+        "processId": 1744,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -240,6 +240,18 @@
             "deviceId": "R3CR70RDPSE",
             "name": "com.lkd.Chain.RPG",
             "processId": 31345,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 30329,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 1744,
             "exited": false
         }
     ],
