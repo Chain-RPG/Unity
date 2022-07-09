@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "R3CR70RDPSE",
         "name": "com.lkd.Chain.RPG",
-        "processId": 1744,
+        "processId": 15964,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -11,247 +11,91 @@
         {
             "deviceId": "R3CR70RDPSE",
             "name": "com.lkd.Chain.RPG",
-            "processId": 28159,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 28835,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 30228,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 31912,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 32209,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 32573,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 1461,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 2511,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 5396,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 6255,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 8154,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 8689,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 9423,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 11823,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 12296,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 13656,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 13803,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 14466,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 16518,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 17656,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 18632,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 19386,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 19808,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 22519,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 22794,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 24164,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 24662,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 25716,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 27178,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 28174,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 30374,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 11747,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 12873,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 13640,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 20792,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 21482,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
-            "processId": 21883,
-            "exited": false
-        },
-        {
-            "deviceId": "R3CR70RDPSE",
-            "name": "com.lkd.Chain.RPG",
             "processId": 30291,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "R3CR70RDPSE",
             "name": "com.lkd.Chain.RPG",
             "processId": 31345,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "R3CR70RDPSE",
             "name": "com.lkd.Chain.RPG",
             "processId": 30329,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "R3CR70RDPSE",
             "name": "com.lkd.Chain.RPG",
             "processId": 1744,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.kakao.talk",
+            "processId": 9027,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 16927,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 19804,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 22740,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 24933,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 25742,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 12709,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 14043,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 16737,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 14128,
+            "exited": false
+        },
+        {
+            "deviceId": "R3CR70RDPSE",
+            "name": "com.lkd.Chain.RPG",
+            "processId": 15964,
             "exited": false
         }
     ],
